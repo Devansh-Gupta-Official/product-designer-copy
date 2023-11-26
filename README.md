@@ -17,3 +17,11 @@ This project consists of a 4-page website created using HTML and CSS.
 4. **Page 4: Contact**
    - **Description:** Offers contact information.
    - **Content:** Possibly contains a contact form or details on how to get in touch.
+
+## **How to Use**
+1. Clone this repository.
+2. Open the desired HTML file in your web browser.
+
+## **Technologies Used**
+- HTML
+- CSS
